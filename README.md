@@ -1,21 +1,4 @@
 # Engineering Resources
-
-# Books
-
-
-# Articles
-
-# Resources
-[LeadDev](https://leaddev.com/)
-
-A community featuring hundreds of talks and articles focused on developing engineering leaders and managers. Each article takes about 10 - 15 minutes to read.    
-
-
-# Conferences
-
- [LeadDevTogether](https://leaddev.com/events/leaddev-together)
- 
- A 12 week virtual conference for engineering leaders and managers. Focusing on developing teams, building motivation, and discussing strategies to effect personal and organizational change. A great resource for teams looking to level up their management team. 
  
 # Reading List
 <img align="left" src="https://images-na.ssl-images-amazon.com/images/I/515uN5jOO9L._SX386_BO1,204,203,200_.jpg" width="100"  height="140"></img>
@@ -46,3 +29,21 @@ A community featuring hundreds of talks and articles focused on developing engin
 [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575/ref=as_li_ss_tl?ie=UTF8&qid=1518314123&sr=8-1&keywords=Managing+Humans&linkCode=sl1&tag=vdggroup-20&linkId=471c34c99dc20f08daf92caf575ce4d2)
 
 *Read hilarious stories with serious lessons that Michael Lopp extracts from his varied and sometimes bizarre experiences as a manager at Apple, Pinterest, Palantir, Netscape, Symantec, Slack, and Borland. *
+
+<br/>
+<br/>
+
+# Resources
+[LeadDev](https://leaddev.com/)
+
+A community featuring hundreds of talks and articles focused on developing engineering leaders and managers. Each article takes about 10 - 15 minutes to read.    
+
+
+# Conferences
+
+[LeadDevTogether](https://leaddev.com/events/leaddev-together)
+ 
+A 12 week virtual conference for engineering leaders and managers. Focusing on developing teams, building motivation, and discussing strategies to effect personal and organizational change. A great resource for teams looking to level up their management team. 
+
+# Articles
+
