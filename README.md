@@ -1,4 +1,3 @@
-# Engineering Resources
  
 # Reading List
 <img align="left" src="https://images-na.ssl-images-amazon.com/images/I/515uN5jOO9L._SX386_BO1,204,203,200_.jpg" width="100"  height="140"></img>
