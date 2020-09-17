@@ -37,6 +37,8 @@
 
 A community featuring hundreds of talks and articles focused on developing engineering leaders and managers. Each article takes about 10 - 15 minutes to read.    
 
+# Talks
+[Lara Hogan - Demystifying Public Speaking](https://www.youtube.com/watch?v=20GYQcBhXDo)
 
 # Conferences
 
