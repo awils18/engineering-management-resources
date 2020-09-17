@@ -27,7 +27,7 @@
 <img align="left" src="https://images-na.ssl-images-amazon.com/images/I/51iKBuGKQxL._SX328_BO1,204,203,200_.jpg" width="100" height="140"></img>
 [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575/ref=as_li_ss_tl?ie=UTF8&qid=1518314123&sr=8-1&keywords=Managing+Humans&linkCode=sl1&tag=vdggroup-20&linkId=471c34c99dc20f08daf92caf575ce4d2)
 
-*Read hilarious stories with serious lessons that Michael Lopp extracts from his varied and sometimes bizarre experiences as a manager at Apple, Pinterest, Palantir, Netscape, Symantec, Slack, and Borland. *
+*Read hilarious stories with serious lessons that Michael Lopp extracts from his varied and sometimes bizarre experiences as a manager at Apple, Pinterest, Palantir, Netscape, Symantec, Slack, and Borland.*
 
 <br/>
 <br/>
